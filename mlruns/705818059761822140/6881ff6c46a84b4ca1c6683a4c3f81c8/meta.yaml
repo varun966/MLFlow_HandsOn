@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIML/MLOPS/MLFlow/MLFlow_HandsOn/mlruns/705818059761822140/6881ff6c46a84b4ca1c6683a4c3f81c8/artifacts
+end_time: 1744711804947
+entry_point_name: ''
+experiment_id: '705818059761822140'
+lifecycle_stage: active
+run_id: 6881ff6c46a84b4ca1c6683a4c3f81c8
+run_name: angry-asp-865
+run_uuid: 6881ff6c46a84b4ca1c6683a4c3f81c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744711804305
+status: 3
+tags: []
+user_id: varun

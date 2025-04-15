@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIML/MLOPS/MLFlow/MLFlow_HandsOn/mlruns/0/f8d457d514ce48cab71571ed0caf9f94/artifacts
+end_time: 1744710557944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8d457d514ce48cab71571ed0caf9f94
+run_name: learned-vole-577
+run_uuid: f8d457d514ce48cab71571ed0caf9f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744710553160
+status: 3
+tags: []
+user_id: varun

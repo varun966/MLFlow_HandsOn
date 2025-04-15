@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIML/MLOPS/MLFlow/MLFlow_HandsOn/mlruns/705818059761822140/9272203a2bab4882914e4ebdcf7f6bf0/artifacts
+end_time: 1744712589580
+entry_point_name: ''
+experiment_id: '705818059761822140'
+lifecycle_stage: active
+run_id: 9272203a2bab4882914e4ebdcf7f6bf0
+run_name: angry-skink-896
+run_uuid: 9272203a2bab4882914e4ebdcf7f6bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744712574619
+status: 3
+tags: []
+user_id: varun

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIML/MLOPS/MLFlow/MLFlow_HandsOn/mlruns/0/b721357b307a4885b90ef3994f8bb9f5/artifacts
+end_time: 1744706536590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b721357b307a4885b90ef3994f8bb9f5
+run_name: skittish-bird-278
+run_uuid: b721357b307a4885b90ef3994f8bb9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744706536382
+status: 3
+tags: []
+user_id: varun

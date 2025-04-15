@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIML/MLOPS/MLFlow/MLFlow_HandsOn/mlruns/705818059761822140/a0520a3ad6f34897919b242263312c60/artifacts
+end_time: 1744716945910
+entry_point_name: ''
+experiment_id: '705818059761822140'
+lifecycle_stage: active
+run_id: a0520a3ad6f34897919b242263312c60
+run_name: caring-duck-132
+run_uuid: a0520a3ad6f34897919b242263312c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744716938134
+status: 3
+tags: []
+user_id: varun
