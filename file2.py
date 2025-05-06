@@ -9,7 +9,7 @@ import seaborn as sns
 import os 
 
 os.environ["MLFLOW_TRACKING_USERNAME"] = "varun966"
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "2ad5730ed4a957396d82a8dc998e9504e90661b4"
+os.environ["MLFLOW_TRACKING_PASSWORD"] = ""
 
 
 import dagshub
